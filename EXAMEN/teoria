@@ -1,0 +1,19 @@
+1. Una clase en Java es un modelo que define los atributos y métodos de un objeto.
+
+2. Un método es una acción que puede realizar un objeto, mientras que una función es un bloque de código que realiza una tarea específica.
+
+3. La herencia en Java es un mecanismo que permite a una clase heredar las propiedades y métodos de otra clase.
+
+4. El polimorfismo en Java es la capacidad de un objeto de comportarse de diferentes maneras dependiendo del contexto.
+
+5. Una interfaz en Java es un tipo de referencia que define un conjunto de métodos que una clase debe implementar.
+
+6. Una excepción en Java es un evento que indica que ha ocurrido un error durante la ejecución de un programa.
+
+7. La encapsulación en Java es un mecanismo que oculta los detalles internos de un objeto al resto del programa.
+
+8. La abstracción en Java es el proceso de identificar las características esenciales de un objeto y ocultar los detalles irrelevantes.
+
+9. Un paquete en Java es una colección de clases relacionadas.
+
+10. El ciclo de vida de un objeto en Java comienza con su creación y termina con su eliminación.
